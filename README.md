@@ -10,9 +10,9 @@ Your task is to stay alive as long as possible.
 
 <strong>Links:</strong><br>
 If you want to see it at work here is a gameplay:</br>
-link to YT</br>
+(https://youtu.be/uM1hUXOoSR4) </br>
 You can download the game from here:</br>
-link to itchio</br>
+(https://miki18games.itch.io/incoming-monsters) </br>
 
 
 <strong>The project contains:</strong>
