@@ -5,7 +5,8 @@ This is a simple c++ OpenGL game.
 
 <strong>Game rules:</strong></br>
 Monsters are incoming and you have to shoot them. You they step on red line - you will lose one of your 3 lives.<br>
-For killing monsters you will get money, so you will be able to buy some upgrades for your cannon.
+For killing monsters you will get money, so you will be able to buy some upgrades for your cannon.<br>
+Your task is to stay alive as long as possible.
 
 <strong>Links:</strong><br>
 If you want to see it at work here is a gameplay:</br>
